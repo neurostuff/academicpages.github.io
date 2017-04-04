@@ -1,13 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+MNE:
+  name        : "MNE Python"
+  uri         : "https://martinos.org/mne/stable/index.html"
+  bio         : "MNE Python is a package for cognitive electrophysiology analysis in python."
+  avatar      : "logos/mne_logo.png"
+  twitter     : "mne_news"
 
 Name2 Name2:
   name        : "Name2 Name2"

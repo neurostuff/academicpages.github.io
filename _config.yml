@@ -235,6 +235,7 @@ gems:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-auto-image
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

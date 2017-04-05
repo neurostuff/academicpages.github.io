@@ -1,0 +1,13 @@
+---
+layout: archive
+permalink: /
+title: "Blog posts"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+{% include base_path %}
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}

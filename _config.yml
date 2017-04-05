@@ -234,7 +234,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-auto-image
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -280,6 +279,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# For the default image
-image: images/logos/site_logo.jpg

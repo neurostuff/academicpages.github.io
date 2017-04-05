@@ -45,7 +45,9 @@
     {% endif %}
 
     <!-- Auto image code -->
-    <a href="{{ base_path }}{{ post.url }}">image: <img src="{{ post.image }}" /></a>
+    {% if post.image %}
+      <a href="{{ base_path }}{{ post.url }}"><img class="archiveimage" src="{{ post.image }}" /></a>
+    {% endif %}
 
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

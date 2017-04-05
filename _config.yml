@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bloggy McBlogface"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Neurostuff"
+  avatar           : "logos/site_logo.jpeg"
+  bio              : "Stories about data analysis, machine learning, and visualization of the open neuroscience community."
+  location         : "Camelot"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "choldgraf"
+  github           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
